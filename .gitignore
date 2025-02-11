@@ -1,6 +1,6 @@
 # 機密ファイル
 .env
-cheap-hunter-firebase-adminsdk-fbsvc-a7b3a155f7.json
+cheap-hunter-firebase-*.json
 
 # vscode設定ファイル
 .vscode
