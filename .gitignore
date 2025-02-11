@@ -1,0 +1,9 @@
+# 機密ファイル
+.env
+cheap-hunter-firebase-adminsdk-fbsvc-a7b3a155f7.json
+
+# vscode設定ファイル
+.vscode
+
+# pychache
+__pycache__
